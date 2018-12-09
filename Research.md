@@ -5,10 +5,10 @@ permalink: /research/
 ---
 
 ## Data-Driven Design Assurance Under Uncertainty
-Data-Driven Design Assurance is a research project where data science and AI techniques are applied to support the design assurance process in massive engineering design infrastructure project... 
+Data-Driven Design Assurance is a research project where data science and AI techniques are applied to support the design assurance process in massive engineering design infrastructure project...
 
-# Digital twin ....
+## Digital twin ....
 
-# Leo project
+## Leo project
 
-# Kate project
+## Kate project
