@@ -25,7 +25,7 @@ Grand Challenge III: Data-Driven Design Under Uncertainty (Jan 2017-Dec 2021) AT
 The team setup includes Professor Jennifer Whyte as GC lead,  and four research associates: Dr Leo Hsu, Dr Chen Long, Dr Kate Simpson and Dr Feng Shi... 
 ```
 
-3. Name your text file in this format: year-month-day-title.md.  For example, `2018-12-07-team-setup.md`
+3. Name your text file in this format: `year-month-day-title.md`.  For example, `2018-12-07-team-setup.md`
 
 4. Upload you file to [_posts](https://github.com/CSEI-DDP/CSEI-DDP.github.io/tree/master/_posts) folder.
 
