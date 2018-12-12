@@ -27,6 +27,6 @@ The team setup includes Professor Jennifer Whyte as GC lead,  and four research 
 
 3. Name your text file in this format: `year-month-day-title.md`.  For example, `2018-12-07-team-setup.md`
 
-4. Upload you file to [_posts](https://github.com/CSEI-DDP/CSEI-DDP.github.io/tree/master/_posts) folder.
+4. Finally, upload your file to [_posts](https://github.com/CSEI-DDP/CSEI-DDP.github.io/tree/master/_posts) folder.
 
 Done!! you post will be online in a minute.
