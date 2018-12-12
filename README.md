@@ -1,6 +1,6 @@
 ### Publish your blog post
 
-You can just simply refer to the `2018-12-07-team-setup.md` file in [_post](https://github.com/CSEI-DDP/CSEI-DDP.github.io/tree/master/_posts) folder to write your own posts.
+You can just simply refer to the `2018-12-07-team-setup.md` file in [_posts](https://github.com/CSEI-DDP/CSEI-DDP.github.io/tree/master/_posts) folder to write your own posts.
 
 More specifically, following the below steps:
 
@@ -27,6 +27,6 @@ The team setup includes Professor Jennifer Whyte as GC lead,  and four research 
 
 3. Name your text file in this format: year-month-day-title.md.  For example, `2018-12-07-team-setup.md`
 
-4. Upload you file to [_post](https://github.com/CSEI-DDP/CSEI-DDP.github.io/tree/master/_posts) folder.
+4. Upload you file to [_posts](https://github.com/CSEI-DDP/CSEI-DDP.github.io/tree/master/_posts) folder.
 
 Done!! you post will be online in a minute.
