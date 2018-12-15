@@ -8,7 +8,10 @@ permalink: /people/
 Professor Jennifer Whyte
 
 ## Post-doc researcher
-* __Dr Leo Hsu__ is ...
+* __Dr Leo Hsu__ completed his undergraduate and postgraduate degrees in the Department of Civil Engineering of National Chiao Tung University, Taiwan . His master degree research was mainly on the integration of BIM and quantity takeoff tools for quantity estimation.
+His current research aim is to establish the logistics process for factory-based manufacturing of structural and MEP (Mechanical, electrical and plumbing) products. A unique logistics process tailored to the production of housing components has to be established under the principle of “lean”, and all the potential problems arising in the internal factory logistic process have to be solved.
+
+
 
 * __Dr Chen Long__ obtained his PhD from Civil Engineering, The University of Hong Kong. He focuses on how digital technology (e.g., BIM) and data analytics (e.g., Bayesian inference) can improve the efficiency of construction engineering and management. Contact: [long.chen@imperial.ac.uk](mailto:long.chen@imperial.ac.uk)
 
