@@ -7,12 +7,17 @@ permalink: /people/
 ## Academic lead
 Professor Jennifer Whyte
 
-## Post-doc research
+## Post-doc researcher
 * __Dr Leo Hsu__ is ...
-* __Dr Chen Long__ is...
+
+* __Dr Chen Long__ obtained his PhD from Civil Engineering, The University of Hong Kong. He focuses on how digital technology (e.g., BIM) and data analytics (e.g., Bayesian inference) can improve the efficiency of construction engineering and management. Contact: long.chen@imperial.ac.uk
+
 * __Dr Feng Shi__ obtained his PhD from Design Engineering at Imperial College, and his expertise is
-in text mining, machine learning and data science techniques applied in engineering and design.
-* __Dr Kate Simpson__ holds a PhD from University of Leeds, ...
+in engineering informatics by the use of machine learning, text mining and data science techniques to support the engineering design, automation, and innovation. Contact: f.shi14@imperial.ac.uk
+
+* __Dr Kate Simpson__ holds a PhD from the LoLo Centre for Doctoral Training in Energy Demand, Loughborough University. Her expertise is in building retrofit, energy performance, indoor environment quality and decision making. Contact: kate.simpson@imperial.ac.uk
+
+
 
 ## PhD students
 *  __Mi Pan__, A systems approach to understanding the implementation and integration of construction robots, April 2019-May 2019, visiting PhD from Hong Kong University.
