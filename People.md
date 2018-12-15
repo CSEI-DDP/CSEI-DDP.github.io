@@ -9,7 +9,7 @@ Professor Jennifer Whyte
 
 ## Post-doc researcher
 * __Dr Leo Hsu__ completed his undergraduate and postgraduate degrees in the Department of Civil Engineering of National Chiao Tung University, Taiwan . His master degree research was mainly on the integration of BIM and quantity takeoff tools for quantity estimation.
-His current research aim is to establish the logistics process for factory-based manufacturing of structural and MEP (Mechanical, electrical and plumbing) products. A unique logistics process tailored to the production of housing components has to be established under the principle of “lean”, and all the potential problems arising in the internal factory logistic process have to be solved.
+His current research aim is to establish the logistics process for factory-based manufacturing of structural and MEP (Mechanical, electrical and plumbing) products. A unique logistics process tailored to the production of housing components has to be established under the principle of “lean”, and all the potential problems arising in the internal factory logistic process have to be solved. Contact: [p.hsu15@imperial.ac.uk](mailto:p.hsu15@imperial.ac.uk)
 
 
 
