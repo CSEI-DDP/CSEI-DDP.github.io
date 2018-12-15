@@ -9,7 +9,7 @@ Developing a new data-mining algorithm to automate the design process for large 
 
 [Learn more](https://www.turing.ac.uk/research/research-projects/data-driven-design-civic-infrastructure)
 
-Contact: [Dr Pei-Yuan Hsu](https://csei-ddp.github.io/people/)
+Contact: [Dr Pei-Yuan Hsu](mailto:p.hsu15@imperial.ac.uk)
 
 
 ## Retrofit design in the built environment
@@ -17,7 +17,7 @@ Exploring decision making processes common in construction and building manageme
 
 [Learn more](https://www.turing.ac.uk/research/research-projects/retrofit-design-built-environment)
 
-Contact: [Dr Kate Simpson](https://csei-ddp.github.io/people/)
+Contact: [Dr Kate Simpson](mailto:kate.simpson@imperial.ac.uk)
 
 
 
@@ -26,4 +26,4 @@ Using text mining and natural language processing to provide insight into design
 
 [Learn more](https://www.turing.ac.uk/research/research-projects/data-driven-design-assurance)
 
-Contact: [Dr Feng Shi](https://csei-ddp.github.io/people/)
+Contact: [Dr Feng Shi](mailto:f.shi14@imperial.ac.uk)
